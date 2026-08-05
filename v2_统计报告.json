@@ -1,0 +1,691 @@
+[
+  {
+    "zh_chars": 1263,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {},
+    "max_short": 2,
+    "chap": "第1章",
+    "fname": "03_第一幕_入局/01_第01章_匿名信.md"
+  },
+  {
+    "zh_chars": 1201,
+    "dashes": 8,
+    "dash_density": 0.67,
+    "yang_count": 0,
+    "repeats": {
+      "是。": 1
+    },
+    "max_short": 3,
+    "chap": "第2章",
+    "fname": "03_第一幕_入局/02_第02章_策论.md"
+  },
+  {
+    "zh_chars": 571,
+    "dashes": 4,
+    "dash_density": 0.7,
+    "yang_count": 0,
+    "repeats": {},
+    "max_short": 3,
+    "chap": "第3章",
+    "fname": "03_第一幕_入局/03_第03章_殿试_紫宸殿.md"
+  },
+  {
+    "zh_chars": 1236,
+    "dashes": 12,
+    "dash_density": 0.97,
+    "yang_count": 0,
+    "repeats": {
+      "站了一会儿": 1
+    },
+    "max_short": 4,
+    "chap": "第4章",
+    "fname": "03_第一幕_入局/04_第04章_放榜_拜师.md"
+  },
+  {
+    "zh_chars": 1013,
+    "dashes": 10,
+    "dash_density": 0.99,
+    "yang_count": 0,
+    "repeats": {
+      "坐了一会儿": 1,
+      "是。": 1
+    },
+    "max_short": 2,
+    "chap": "第5章",
+    "fname": "03_第一幕_入局/05_第05章_值夜_崔玄礼.md"
+  },
+  {
+    "zh_chars": 837,
+    "dashes": 8,
+    "dash_density": 0.96,
+    "yang_count": 0,
+    "repeats": {},
+    "max_short": 4,
+    "chap": "第6章",
+    "fname": "03_第一幕_入局/06_第06章_春闱舞弊案_风波起.md"
+  },
+  {
+    "zh_chars": 886,
+    "dashes": 7,
+    "dash_density": 0.79,
+    "yang_count": 1,
+    "repeats": {
+      "端起案边凉茶": 1
+    },
+    "max_short": 5,
+    "chap": "第7章",
+    "fname": "03_第一幕_入局/07_第07章_自污求入_第一阳谋.md"
+  },
+  {
+    "zh_chars": 801,
+    "dashes": 9,
+    "dash_density": 1.12,
+    "yang_count": 0,
+    "repeats": {},
+    "max_short": 5,
+    "chap": "第8章",
+    "fname": "03_第一幕_入局/08_第08章_座师钩子_王公被调走.md"
+  },
+  {
+    "zh_chars": 1433,
+    "dashes": 12,
+    "dash_density": 0.84,
+    "yang_count": 0,
+    "repeats": {
+      "他没让自己多想": 1,
+      "手按在": 1
+    },
+    "max_short": 4,
+    "chap": "第9章",
+    "fname": "03_第一幕_入局/09_第09章_旧档.md"
+  },
+  {
+    "zh_chars": 954,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {},
+    "max_short": 2,
+    "chap": "第10章",
+    "fname": "04_第二幕_小试牛刀/10_第10章_改制风声_均引法.md"
+  },
+  {
+    "zh_chars": 1271,
+    "dashes": 9,
+    "dash_density": 0.71,
+    "yang_count": 0,
+    "repeats": {},
+    "max_short": 2,
+    "chap": "第11章",
+    "fname": "04_第二幕_小试牛刀/11_第11章_南下_离洛阳.md"
+  },
+  {
+    "zh_chars": 816,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {
+      "坐了一会儿": 2
+    },
+    "max_short": 2,
+    "chap": "第12章",
+    "fname": "04_第二幕_小试牛刀/12_第12章_扬州_父亲官署.md"
+  },
+  {
+    "zh_chars": 1292,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {
+      "坐了一会儿": 1,
+      "站了一会儿": 3
+    },
+    "max_short": 3,
+    "chap": "第13章",
+    "fname": "04_第二幕_小试牛刀/13_第13章_金陵_衣冠冢前.md"
+  },
+  {
+    "zh_chars": 1078,
+    "dashes": 1,
+    "dash_density": 0.09,
+    "yang_count": 0,
+    "repeats": {
+      "看了一会儿": 2
+    },
+    "max_short": 2,
+    "chap": "第14章",
+    "fname": "04_第二幕_小试牛刀/14_第14章_遗书_题眼.md"
+  },
+  {
+    "zh_chars": 835,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {
+      "站了一会儿": 1
+    },
+    "max_short": 4,
+    "chap": "第15章",
+    "fname": "04_第二幕_小试牛刀/15_第15章_破落皇族_老宅匾额.md"
+  },
+  {
+    "zh_chars": 871,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {},
+    "max_short": 3,
+    "chap": "第16章",
+    "fname": "04_第二幕_小试牛刀/16_第16章_崔玄礼_第一次棋局.md"
+  },
+  {
+    "zh_chars": 863,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {},
+    "max_short": 3,
+    "chap": "第17章",
+    "fname": "04_第二幕_小试牛刀/17_第17章_均引法_第一道折子.md"
+  },
+  {
+    "zh_chars": 1194,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {},
+    "max_short": 2,
+    "chap": "第18章",
+    "fname": "04_第二幕_小试牛刀/18_第18章_推恩令_盐铁版_第二阳谋.md"
+  },
+  {
+    "zh_chars": 1339,
+    "dashes": 13,
+    "dash_density": 0.97,
+    "yang_count": 0,
+    "repeats": {
+      "看了一会儿": 1
+    },
+    "max_short": 3,
+    "chap": "第19章",
+    "fname": "04_第二幕_小试牛刀/19_第19章_崔氏分裂_旁支谢恩.md"
+  },
+  {
+    "zh_chars": 474,
+    "dashes": 1,
+    "dash_density": 0.21,
+    "yang_count": 0,
+    "repeats": {},
+    "max_short": 3,
+    "chap": "第20章",
+    "fname": "04_第二幕_小试牛刀/20_第20章_暗线_萧璎身边的燕国口音.md"
+  },
+  {
+    "zh_chars": 1215,
+    "dashes": 11,
+    "dash_density": 0.91,
+    "yang_count": 0,
+    "repeats": {
+      "坐了一会儿": 1
+    },
+    "max_short": 4,
+    "chap": "第21章",
+    "fname": "04_第二幕_小试牛刀/21_第21章_金陵夜雨_苏蘅初见.md"
+  },
+  {
+    "zh_chars": 1506,
+    "dashes": 9,
+    "dash_density": 0.6,
+    "yang_count": 0,
+    "repeats": {},
+    "max_short": 3,
+    "chap": "第22章",
+    "fname": "04_第二幕_小试牛刀/22_第22章_母亲灵位_第一次流泪.md"
+  },
+  {
+    "zh_chars": 1101,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {
+      "指节发白": 1,
+      "坐了一会儿": 1
+    },
+    "max_short": 2,
+    "chap": "第23章",
+    "fname": "04_第二幕_小试牛刀/23_第23章_回京_仁宗嘉勉.md"
+  },
+  {
+    "zh_chars": 1004,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {
+      "坐了一会儿": 1
+    },
+    "max_short": 2,
+    "chap": "第24章",
+    "fname": "04_第二幕_小试牛刀/24_第24章_父亲遗书_第二次翻.md"
+  },
+  {
+    "zh_chars": 1206,
+    "dashes": 10,
+    "dash_density": 0.83,
+    "yang_count": 0,
+    "repeats": {
+      "坐了一会儿": 1,
+      "看了一会儿": 1,
+      "是。": 1
+    },
+    "max_short": 2,
+    "chap": "第25章",
+    "fname": "04_第二幕_小试牛刀/25_第25章_江南暗线_崔氏是被借力的刀.md"
+  },
+  {
+    "zh_chars": 1606,
+    "dashes": 16,
+    "dash_density": 1.0,
+    "yang_count": 0,
+    "repeats": {
+      "坐了一会儿": 1,
+      "他想起": 3
+    },
+    "max_short": 4,
+    "chap": "第26章",
+    "fname": "04_第二幕_小试牛刀/26_第26章_第二幕尾声_苏蘅再现.md"
+  },
+  {
+    "zh_chars": 1208,
+    "dashes": 5,
+    "dash_density": 0.41,
+    "yang_count": 0,
+    "repeats": {},
+    "max_short": 3,
+    "chap": "第27章",
+    "fname": "04_第二幕_小试牛刀/27_第27章_第二幕钩子_裴正则的善意.md"
+  },
+  {
+    "zh_chars": 2079,
+    "dashes": 12,
+    "dash_density": 0.58,
+    "yang_count": 0,
+    "repeats": {},
+    "max_short": 3,
+    "chap": "第28章",
+    "fname": "05_第三幕_连环阳谋/28_第28章_储位风波_苏蘅.md"
+  },
+  {
+    "zh_chars": 1992,
+    "dashes": 21,
+    "dash_density": 1.05,
+    "yang_count": 0,
+    "repeats": {
+      "站了一会儿": 1
+    },
+    "max_short": 2,
+    "chap": "第29章",
+    "fname": "05_第三幕_连环阳谋/29_第29章_五子之邀_苏蘅的提醒.md"
+  },
+  {
+    "zh_chars": 2051,
+    "dashes": 11,
+    "dash_density": 0.54,
+    "yang_count": 0,
+    "repeats": {
+      "坐了一会儿": 1,
+      "是。": 1
+    },
+    "max_short": 2,
+    "chap": "第30章",
+    "fname": "05_第三幕_连环阳谋/30_第30章_父案第一层_谁在江南.md"
+  },
+  {
+    "zh_chars": 1215,
+    "dashes": 2,
+    "dash_density": 0.16,
+    "yang_count": 0,
+    "repeats": {
+      "是。": 1
+    },
+    "max_short": 6,
+    "chap": "第31章",
+    "fname": "05_第三幕_连环阳谋/31_第31章_三牌落地_裴正则接牌.md"
+  },
+  {
+    "zh_chars": 2071,
+    "dashes": 4,
+    "dash_density": 0.19,
+    "yang_count": 0,
+    "repeats": {
+      "是。": 1
+    },
+    "max_short": 5,
+    "chap": "第32章",
+    "fname": "05_第三幕_连环阳谋/32_第32章_沈彦觉醒_结党.md"
+  },
+  {
+    "zh_chars": 2361,
+    "dashes": 14,
+    "dash_density": 0.59,
+    "yang_count": 0,
+    "repeats": {
+      "是。": 2
+    },
+    "max_short": 3,
+    "chap": "第33章",
+    "fname": "05_第三幕_连环阳谋/33_第33章_三子_差额是李太后的把柄.md"
+  },
+  {
+    "zh_chars": 2402,
+    "dashes": 1,
+    "dash_density": 0.04,
+    "yang_count": 0,
+    "repeats": {},
+    "max_short": 5,
+    "chap": "第34章",
+    "fname": "05_第三幕_连环阳谋/34_第34章_三张牌落地_储位推迟_叶孤鸿代价.md"
+  },
+  {
+    "zh_chars": 1139,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {},
+    "max_short": 3,
+    "chap": "第35章",
+    "fname": "05_第三幕_连环阳谋/35_第35章_裴正则的满意_当年接牌人.md"
+  },
+  {
+    "zh_chars": 1249,
+    "dashes": 1,
+    "dash_density": 0.08,
+    "yang_count": 0,
+    "repeats": {
+      "是。": 1
+    },
+    "max_short": 3,
+    "chap": "第36章",
+    "fname": "05_第三幕_连环阳谋/36_第36章_沈彦的觉醒_真凶浮出.md"
+  },
+  {
+    "zh_chars": 1525,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {
+      "是。": 1
+    },
+    "max_short": 2,
+    "chap": "第37章",
+    "fname": "05_第三幕_连环阳谋/37_第37章_结党营私_被构陷.md"
+  },
+  {
+    "zh_chars": 1841,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {
+      "是。": 2
+    },
+    "max_short": 3,
+    "chap": "第38章",
+    "fname": "05_第三幕_连环阳谋/38_第38章_两数相差两万两_朝堂震动.md"
+  },
+  {
+    "zh_chars": 2521,
+    "dashes": 1,
+    "dash_density": 0.04,
+    "yang_count": 0,
+    "repeats": {
+      "站了一会儿": 1,
+      "良久": 2,
+      "是。": 1
+    },
+    "max_short": 3,
+    "chap": "第39章",
+    "fname": "05_第三幕_连环阳谋/39_第39章_裴正则反扑_六年前逻辑.md"
+  },
+  {
+    "zh_chars": 3323,
+    "dashes": 1,
+    "dash_density": 0.03,
+    "yang_count": 0,
+    "repeats": {
+      "站了一会儿": 2,
+      "是。": 2
+    },
+    "max_short": 4,
+    "chap": "第40章",
+    "fname": "05_第三幕_连环阳谋/40_第40章_公开审案_再添一份.md"
+  },
+  {
+    "zh_chars": 2100,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {
+      "是。": 1
+    },
+    "max_short": 5,
+    "chap": "第41章",
+    "fname": "05_第三幕_连环阳谋/41_第41章_但代价_叶孤鸿来访.md"
+  },
+  {
+    "zh_chars": 1617,
+    "dashes": 1,
+    "dash_density": 0.06,
+    "yang_count": 0,
+    "repeats": {},
+    "max_short": 4,
+    "chap": "第42章",
+    "fname": "05_第三幕_连环阳谋/42_第42章_围魏救赵收官_出自己.md"
+  },
+  {
+    "zh_chars": 1356,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {
+      "站了一会儿": 1,
+      "是。": 1
+    },
+    "max_short": 4,
+    "chap": "第43章",
+    "fname": "05_第三幕_连环阳谋/43_第43章_父案真相_苏蘅再添一份.md"
+  },
+  {
+    "zh_chars": 1830,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {
+      "是。": 2
+    },
+    "max_short": 2,
+    "chap": "第44章",
+    "fname": "05_第三幕_连环阳谋/44_第44章_父案第二层_谁签的批复.md"
+  },
+  {
+    "zh_chars": 1603,
+    "dashes": 3,
+    "dash_density": 0.19,
+    "yang_count": 0,
+    "repeats": {
+      "是。": 2
+    },
+    "max_short": 2,
+    "chap": "第45章",
+    "fname": "05_第三幕_连环阳谋/45_第45章_父案第三层_谁让太监写的.md"
+  },
+  {
+    "zh_chars": 1441,
+    "dashes": 1,
+    "dash_density": 0.07,
+    "yang_count": 0,
+    "repeats": {
+      "是。": 2
+    },
+    "max_short": 2,
+    "chap": "第46章",
+    "fname": "05_第三幕_连环阳谋/46_第46章_父案第四层_六年前合谋.md"
+  },
+  {
+    "zh_chars": 1207,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {
+      "是。": 2
+    },
+    "max_short": 3,
+    "chap": "第47章",
+    "fname": "05_第三幕_连环阳谋/47_第47章_父案真相_出自己.md"
+  },
+  {
+    "zh_chars": 1112,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {
+      "是。": 2
+    },
+    "max_short": 2,
+    "chap": "第48章",
+    "fname": "05_第三幕_连环阳谋/48_第48章_父案真相_翻案预热.md"
+  },
+  {
+    "zh_chars": 977,
+    "dashes": 2,
+    "dash_density": 0.2,
+    "yang_count": 0,
+    "repeats": {
+      "是。": 2
+    },
+    "max_short": 2,
+    "chap": "第49章",
+    "fname": "05_第三幕_连环阳谋/49_第49章_翻案阳谋_釜底抽薪.md"
+  },
+  {
+    "zh_chars": 1109,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {
+      "坐了一会儿": 1,
+      "良久": 1,
+      "是。": 2
+    },
+    "max_short": 2,
+    "chap": "第50章",
+    "fname": "05_第三幕_连环阳谋/50_第50章_翻案阳谋_釜底抽薪成.md"
+  },
+  {
+    "zh_chars": 1153,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {
+      "良久": 1,
+      "是。": 2
+    },
+    "max_short": 3,
+    "chap": "第51章",
+    "fname": "05_第三幕_连环阳谋/51_第51章_翻案阳谋_借力打力.md"
+  },
+  {
+    "zh_chars": 1155,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {
+      "坐了一会儿": 1,
+      "良久": 1,
+      "是。": 2
+    },
+    "max_short": 2,
+    "chap": "第52章",
+    "fname": "05_第三幕_连环阳谋/52_第52章_翻案阳谋_借力打力成.md"
+  },
+  {
+    "zh_chars": 793,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {
+      "坐了一会儿": 1,
+      "良久": 1,
+      "是。": 2
+    },
+    "max_short": 2,
+    "chap": "第53章",
+    "fname": "05_第三幕_连环阳谋/53_第53章_翻案阳谋_自证明牌.md"
+  },
+  {
+    "zh_chars": 858,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {
+      "坐了一会儿": 1,
+      "良久": 1
+    },
+    "max_short": 2,
+    "chap": "第54章",
+    "fname": "05_第三幕_连环阳谋/54_第54章_翻案阳谋_自证明牌成.md"
+  },
+  {
+    "zh_chars": 719,
+    "dashes": 6,
+    "dash_density": 0.83,
+    "yang_count": 0,
+    "repeats": {
+      "坐了一会儿": 1,
+      "良久": 1,
+      "是。": 2
+    },
+    "max_short": 2,
+    "chap": "第55章",
+    "fname": "05_第三幕_连环阳谋/55_第55章_第三幕尾声_退局.md"
+  },
+  {
+    "zh_chars": 677,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {
+      "坐了一会儿": 1,
+      "良久": 1,
+      "是。": 2
+    },
+    "max_short": 2,
+    "chap": "第56章",
+    "fname": "05_第三幕_连环阳谋/56_第56章_第三幕尾声_辞官.md"
+  },
+  {
+    "zh_chars": 730,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {
+      "良久": 1,
+      "是。": 2
+    },
+    "max_short": 2,
+    "chap": "第57章",
+    "fname": "05_第三幕_连环阳谋/57_第57章_第三幕尾声_明退.md"
+  },
+  {
+    "zh_chars": 707,
+    "dashes": 0,
+    "dash_density": 0.0,
+    "yang_count": 0,
+    "repeats": {
+      "他想起": 3
+    },
+    "max_short": 3,
+    "chap": "第58章",
+    "fname": "05_第三幕_连环阳谋/58_第58章_第三幕尾声_归隐.md"
+  }
+]
